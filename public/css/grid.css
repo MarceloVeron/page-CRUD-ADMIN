@@ -1,0 +1,12 @@
+.header-nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100%;
+    padding: 0 80px;
+    background: rgb(102,44,146);
+}
+.content{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 100%;
+}
